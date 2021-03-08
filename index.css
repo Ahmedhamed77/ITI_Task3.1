@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("image/wp14.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{
+    display: inline-block;
+    padding: 10px;
+}
+
+h1{
+    padding: 10px;
+}
+.box{
+    color: red;
+}
+
+
+.container{
+    width: 800px;
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border: 1px solid white;
+    border-radius: 25px;
+}
